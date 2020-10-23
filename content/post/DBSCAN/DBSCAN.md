@@ -135,7 +135,9 @@ if __name__ == "__main__":
 ## Visializations
 
 ### My DBSCAN
-{{< chart data="fig1.json" >}}
+
+{{< chart data="fig1" >}}
+
 
 ### SKLEARN DBSCAN
 {{< chart data="fig2" >}}
