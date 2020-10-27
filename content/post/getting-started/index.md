@@ -4,10 +4,13 @@ subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
 - admin
+- 吳恩達
 tags:
 - Academic
+- 开源
 categories:
 - Demo
+- 教程
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -32,6 +35,8 @@ projects: []
 ---
 
 **Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
+
+{{% toc %}}
 
 [Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://sourcethemes.com/academic/#expo) of personal, project, and business sites.
 
