@@ -71,12 +71,12 @@ I'm on a couple podcasts I guess!
 
 ## Podcasts
 
-* [Otherwhere](https://anchor.fm/otherwherepod) 
+* [Otherwhere](https://otherwhere.lawofnames.com/) 
 
   * Quintessential Hero the Delinquent 
   *  Editor
 
-* [Arcadia, CA](https://anchor.fm/ArcadiaCalifornia)
+* [Arcadia, CA](https://arcadiacalifornia.lawofnames.com/)
 
   * Arthur Jynx
   * Editor
