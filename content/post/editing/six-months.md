@@ -35,9 +35,9 @@ I've been editing podcasts for six months now, working on two different pods. My
 
 ## Intent
 
-> Everything left off the cutting room board is needed and essential to  the game. And by listening, you feel that. You feel intelligent design  and not just chaos. [^1]
+> Everything left off the cutting room board is needed and essential to  the game. And by listening, you feel that. You feel intelligent design  and not just chaos.  
 >
-> --- <cite> Maria Fanning
+>  --- <cite> Maria Fanning </cite>[^1]
 
 One of my goals when we embarked on this adventure --- beyond trying to survive the apocalypse and everything [*waves hand in expansive manner*] --- was just to make content that I would want to listen to. A big part of that is the editing. I've found that what is probably the most popular Actual Play on the internets --- let's call it Charlie Romeo --- is just something I cannot consume. And I've tried! A few times even.
 
