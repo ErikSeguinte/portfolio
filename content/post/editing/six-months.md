@@ -7,8 +7,8 @@ summary: ""
 authors: []
 tags: ["Podcast Editing", "Otherwhere", "Arcadia, CA"]
 categories: []
-date: 2020-11-02T11:31:15-07:00
-lastmod: 2020-11-02T11:31:15-07:00
+date: 2020-11-01T11:31:15-07:00
+lastmod: 2020-11-01T11:31:15-07:00
 featured: false
 draft: false
 
