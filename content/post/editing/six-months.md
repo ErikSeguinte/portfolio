@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-I've been editing podcasts for six months now, working on two different pods. I've been publically by Cool People On The Internet. You'd think I'd have something resembling a consistent procedure or methodology. You would be very wrong. No 2 episodes so far have been done exactly the same. But hey. Let's get into it.
+I've been editing podcasts for six months now, working on two different pods. My work has been publically lauded by *Cool People On The Internet*. You'd think I'd have something resembling a consistent procedure or methodology. You would be very wrong. No 2 episodes so far have been done exactly the same. But hey. Let's get into it.
 
 {{% toc %}}
 
