@@ -7,10 +7,10 @@ summary: ""
 authors: []
 tags: ["Podcast Editing", "Otherwhere", "Arcadia, CA"]
 categories: []
-date: 2020-10-29T11:31:15-07:00
-lastmod: 2020-10-29T11:31:15-07:00
+date: 2020-11-02T11:31:15-07:00
+lastmod: 2020-11-02T11:31:15-07:00
 featured: false
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -82,11 +82,21 @@ As for other things that have lead me to make the switch, we have:
   * Volume Normalization on export. Did you know that a podcast should probably be at -16 LUFS for stereo, or -19 LUFS for mono? Hindenburg can do that!
     * Don't know what a LUFs from your rights? Lufs are some kind of industry standard for how loud something should be so that you don't have to turn the volume knob between podcasts or worse, episodes within a podcast.
 
-  So while I think you can do more with Reaper, I think if I had the choice of starting over with one or the other, I'd just use Hindenburg. There's just so much I had to set up, learn how to use, or find a plugin for that Hindenburg already does. That being said, Hindenburg pro is an investment, and Reaper is only $60 and can still do everything you need.
+So while I think you can do more with Reaper, I think if I had the choice of starting over with one or the other, I'd just use Hindenburg. There's just so much I had to set up, learn how to use, or find a plugin for that Hindenburg already does. That being said, Hindenburg pro is an investment, and Reaper is only $60 and can still do everything you need.
 
-  {{% callout note %}}
-  If you do want to use Reaper, I highly recommend reading up [Podigy's Podcast Editing guide](https://podigy.co/podcast-editing-guide/). It was more than enough to get started to get good sounding audio. (See first episode of Otherwhere.)
-  {{% /callout %}}
+{{% callout note %}}
+If you do want to use Reaper, I highly recommend reading up [Podigy's Podcast Editing guide](https://podigy.co/podcast-editing-guide/). It was more than enough to get started to get good sounding audio. (See first episode of Otherwhere.)
+{{% /callout %}}
+
+### Plugins
+I've played around with quite a few plugins. Most free, because this was just supposed to be a fun thing I do, and a couple of free trials of premium stuff. And while I one day hope to be able to justify $1200 for the [Izotope RX]( https://www.izotope.com/en/shop/rx-8-advanced.html) series, I have to give it as pass at this moment in time.
+
+
+For now, I think I am leaning toward the [Accusonus ERA Bundle]( https://accusonus.com/products/audio-repair/era-bundle-standard), which has a bunch of useful one-knob plugins for a much easier to swallow price. Of special intrest to me are the Auto-EQ and the Voice Deepener, which I think makes voices sound a lot better without a lot of work! Especially the Voice Deepener, which claims to make your recorded voice sound more like the voice you hear in your own head. 
+
+
+## TL;DR
+I, at least for the most recent episode, am using Hindenburg Journalist Pro along with the Accusonus ERA bundle, combined with a healthy dose of hyperfocus, attention to detail, and ruthless pair of digital scissors for cutting uneeded content to make Otherwhere the best podcast I can make right now, but one that is always getting better as I learn more.
 
   
 
