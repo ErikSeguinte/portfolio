@@ -103,5 +103,5 @@ I, at least for the most recent episode, am using Hindenburg Journalist Pro alon
 
   
 
-[^2]:“*Item: Select all items in current time selection*”, “T*ime selection: Remove contents of time selection (moving later items)*”, and *“SWS: Crossfade adjacent selected items (move edges of adjacent items)”*
+[^2]:“*Item: Select all items in current time selection*”, “*Time selection: Remove contents of time selection (moving later items)*”, and *“SWS: Crossfade adjacent selected items (move edges of adjacent items)”*
 
